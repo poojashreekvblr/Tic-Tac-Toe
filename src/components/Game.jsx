@@ -88,8 +88,8 @@ function Game(){
                 <h3 style={backgroundStyle1} class="text-lg text-red-700 ml-[350px] mt-10 border-2 border-[#c4a20b] py-[10px] px-[100px]">Player 1:{player1Symbol}</h3>
                 <h3 style={backgroundStyle2} class="text-lg text-red-700 ml-[350px] mt-10 border-2 border-[#c4a20b] py-[10px] px-[100px]">Player 2:{player2Symbol}</h3>
             </div>
-            {winner==="X" && <h3 class="text-3xl text-center mt-0 ml-[25%] mb-10 text-[#8eb71d] ">Winner:Player 1</h3>}
-            {winner==="O" && <h3 class="text-3xl text-center mt-0 ml-[25%] mb-10 text-[#8eb71d] ">Winner:Player 2</h3>}
+            {winner==="Player 1" && <h3 class="text-3xl text-center mt-0 ml-[25%] mb-10 text-[#8eb71d] ">Winner:Player 1</h3>}
+            {winner==="Player 2" && <h3 class="text-3xl text-center mt-0 ml-[25%] mb-10 text-[#8eb71d] ">Winner:Player 2</h3>}
             {winner==="Draw" && <h3 class="text-3xl text-center mt-0 ml-[25%] mb-10 text-[#8eb71d] ">Draw</h3>}
             <div class="row ml-[650px] flex">
             <button name="1" value="" onClick={()=>handleClick("button-1",1)} type="button" id="button-1" class="w-[100px] h-[100px] bg-black text-red-600 text-5xl border-r-2 border-b-2 hover:bg-slate-200"></button>
