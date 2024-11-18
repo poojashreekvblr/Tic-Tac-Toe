@@ -32,5 +32,6 @@ This is a simple yet classic implementation of the Tic-Tac-Toe game built using 
 
 **Screenshot**
 <img src="https://github.com/user-attachments/assets/6f82f25a-91c0-47a0-85db-f458191f0ae0" alt="Tic-Tac-Toe Screenshot" width="600" height="400">
-![Screenshot 2024-11-18 153227](https://github.com/user-attachments/assets/dfd967d2-1603-42a9-a997-004fbeb54575)
-![Screenshot 2024-11-18 153243](https://github.com/user-attachments/assets/b0bc6857-6155-4058-bfd9-494269f4513a)
+<img src="https://github.com/user-attachments/assets/dfd967d2-1603-42a9-a997-004fbeb54575" alt="Tic-Tac-Toe Screenshot" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/b0bc6857-6155-4058-bfd9-494269f4513a" alt="Tic-Tac-Toe Screenshot" width="600" height="400">
+
